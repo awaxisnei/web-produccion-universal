@@ -1,0 +1,214 @@
+body
+{
+	min-width: 300px;
+
+}
+
+
+/*HEADER*/
+
+/*FIN HEADER*/
+
+/**MAIN**/
+#content nav{
+	margin-bottom: 0px;
+}
+
+
+
+/**FIN MAIN**/
+
+/**Cursor pointer al pasar por encima**/
+.pointer
+{
+	cursor: pointer;
+}
+
+.image_for_edit img{
+	max-height: 350px;
+	height: auto;
+	border-radius: 8px;
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.avatar{
+	width: 35px;
+	height: 35px;
+	overflow: hidden;
+	margin-top:9px;
+	margin-right: 0px;
+}
+
+.avatar img{
+	width: 45px;
+	object-fit: cover;
+}
+/**Fin Main **/
+
+
+/**CSS Para barra de Navegación **/
+
+
+.navigation{
+	font-family: 'Barlow Semi Condensed',sans-serif;
+    font-weight: 600;
+    box-shadow:0 0 1px 1px rgba(20,23,28,.1), 0 3px 1px 0 rgba(20,23,28,.1);
+    background:#CF142B;
+    
+}
+
+/**Collapse bar**/
+.navbar-default .navbar-toggle{
+	background: #CF142B;
+	border-color: #CF142B;
+}
+
+.navbar-default .navbar-toggle:hover{
+	background: white;
+}
+
+.navbar-default .navbar-toggle:focus{
+	background: white;
+}
+
+.navbar-default .navbar-toggle .icon-bar{
+	background: white;
+}
+
+.navbar-default .navbar-toggle:hover .icon-bar{
+	background:#CF142B;
+}
+
+.navbar-default .navbar-toggle:focus .icon-bar{
+	background:#CF142B;
+}
+/**FIN COLLAPSE**/
+
+
+
+/*.menu_principal li:nth-child(1) a{
+   color:#CF142B;
+}
+
+#navbarCollapse ul li:nth-child(1) a:hover {
+   background:#009B3A;
+   transition: all 250ms;
+}
+
+.menu_principal li:nth-child(2) a{
+   color:#f1c500;
+}
+
+#navbarCollapse ul li:nth-child(2) a:hover {
+   background:#76A9EA;
+}
+
+.menu_principal li:nth-child(3) a{
+   color:black;
+}
+
+#navbarCollapse ul li:nth-child(3) a:hover {
+   background:#CF142B;
+}
+
+.menu_principal li:nth-child(4) a{
+   color:#009B3A;
+}
+
+#navbarCollapse ul li:nth-child(4) a:hover {
+   background:black;
+}
+
+.menu_principal li:nth-child(5) a{
+   color:#76A9EA;
+}
+
+#navbarCollapse ul li:nth-child(5) a:hover {
+   background:#f1c500;
+}*/
+
+
+
+.menu_principal li{
+	font-weight: 600;
+}
+
+
+/*#navbarCollapse ul li a{
+	
+	transition: all 120ms;
+	font-weight: bold;
+}*/
+
+#navBarCollapse{
+
+	background:#CF142B;
+}
+
+#navbarCollapse ul li a:hover{
+	text-decoration: none;
+	color:#FFEEC1;
+	transition: all 250ms;
+	background: #d60000;
+}
+
+/*Para que no haya cambio de tamaño en el menu*/
+#navbarCollapse ul li a{
+	transition: all 250ms;
+	border-bottom:4px solid transparent;	
+	 color:white; 
+}
+
+.activado{
+	text-decoration: none !important;
+	border-bottom:4px solid #CF142B !important;
+}
+
+.navbar-default {
+	background-color:transparent;
+	border-color:transparent;
+}
+
+.dropdown-menu{
+	background:#CF142B !important;
+}
+
+.dropdown-menu li a:focus, .dropdown-menu li a:hover{
+	background: :#FFC525 !important;
+	transition: all 250ms !important;
+}
+
+.dropdown-toggle:focus
+{
+	background:#CF142B !important;
+}
+
+
+
+/** Fin CSS NAV**/
+
+
+/**FOOTER**/
+
+#footer{
+	/*width: 81.3%;
+	bottom: 0;
+    position:fixed;*/
+	padding-top: 10px;
+	padding-bottom:10px;
+	border-top:3px solid rgba(0, 155, 58, .3);
+	margin-top:1%;
+	margin-bottom: 10%;
+	color: gray;
+}
+
+.redes_sociales{
+	min-width: 12px;
+	max-width: 32px;
+}
+
+/**FIN FOOTER**/
+

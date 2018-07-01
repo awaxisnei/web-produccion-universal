@@ -1,0 +1,464 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Calendar",
+				"CalendarDate"
+			],
+			[
+				"Calend",
+				"CalendarDate"
+			],
+			[
+				"Calen",
+				"CalendarDate"
+			],
+			[
+				"o",
+				"OnInit"
+			],
+			[
+				"is",
+				"isSelected"
+			],
+			[
+				"selec",
+				"selectedDates"
+			],
+			[
+				"cate",
+				"Category"
+			],
+			[
+				"get",
+				"getPostById"
+			],
+			[
+				"form",
+				"form-group"
+			],
+			[
+				"editor",
+				"editorContent"
+			],
+			[
+				"res",
+				"res"
+			],
+			[
+				"file",
+				"file_name"
+			],
+			[
+				"path",
+				"path_file"
+			],
+			[
+				"elim",
+				"eliminarTagsExistentesEnCategoria"
+			],
+			[
+				"compro",
+				"comprobarSiExisteElemento"
+			],
+			[
+				"tag",
+				"tag"
+			],
+			[
+				"index",
+				"indexTag"
+			],
+			[
+				"cae",
+				"category"
+			],
+			[
+				"category",
+				"categoryId"
+			],
+			[
+				"tags",
+				"tags"
+			],
+			[
+				"FadeIn",
+				"fadeInAndOut"
+			],
+			[
+				"_",
+				"_tagService"
+			],
+			[
+				"mo",
+				"mostrarTags"
+			],
+			[
+				"mar",
+				"margin-right"
+			],
+			[
+				"files",
+				"filesToUpload"
+			],
+			[
+				"error",
+				"errorMessage"
+			],
+			[
+				"Glo",
+				"GLOBAL"
+			],
+			[
+				"getComment",
+				"getCommentsByPost"
+			],
+			[
+				"save",
+				"saveComment"
+			],
+			[
+				"getPost",
+				"getPostByAuthor"
+			],
+			[
+				"Ac",
+				"Access-Control-Request-Method"
+			],
+			[
+				"role",
+				"roleController"
+			],
+			[
+				"User",
+				"userController"
+			],
+			[
+				"upload",
+				"upload-image"
+			],
+			[
+				"user",
+				"userController"
+			],
+			[
+				"usuario",
+				"usuario"
+			],
+			[
+				"sec",
+				"claveSecreta"
+			],
+			[
+				"new",
+				"newsletter"
+			],
+			[
+				"anima",
+				"animate"
+			],
+			[
+				"p",
+				"pwdMail"
+			],
+			[
+				"min",
+				"minlength\tAttr"
+			],
+			[
+				"var",
+				"var_dump"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/wamp64/www/web-personal-frontend"
+	],
+	"file_history":
+	[
+		"/C/wamp64/www/web-personal-backend-nodejs/index.js",
+		"/C/wamp64/www/web-personal-frontend/src/app/service/post.service.ts",
+		"/C/wamp64/www/web-personal-frontend/src/index.html",
+		"/C/wamp64/www/web-personal-frontend/src/app/modules/admin/views/post.component.html",
+		"/C/wamp64/www/web-personal-frontend/src/app/modules/calendar/calendar.module.ts",
+		"/C/wamp64/www/web-personal-frontend/src/app/app.module.ts",
+		"/C/wamp64/www/web-personal-backend-nodejs/routes/post.js",
+		"/C/wamp64/www/web-personal-backend-nodejs/controllers/post.js",
+		"/C/wamp64/www/web-personal-frontend/src/app/views/eventos.component.html",
+		"/C/wamp64/www/web-personal-frontend/src/app/components/eventos.component.ts",
+		"/C/wamp64/www/web-personal-frontend/src/app/modules/admin/components/post-edit.component.ts",
+		"/C/wamp64/www/web-personal-frontend/src/app/modules/admin/components/post.component.ts",
+		"/C/wamp64/www/web-personal-backend-nodejs/controllers/photo.js",
+		"/C/wamp64/www/web-personal-frontend/src/app/modules/admin/components/post-add.component.ts",
+		"/C/wamp64/www/web-personal-frontend/src/typings.d.ts",
+		"/C/wamp64/www/web-personal-frontend/node_modules/fullcalendar/dist/locale-all.js",
+		"/C/wamp64/www/web-personal-frontend/node_modules/fullcalendar/dist/fullcalendar.css",
+		"/C/wamp64/www/web-personal-frontend/node_modules/fullcalendar/node_modules/jquery/dist/core.js",
+		"/C/wamp64/www/web-personal-frontend/node_modules/fullcalendar/node_modules/jquery/src/attributes/classes.js",
+		"/C/wamp64/www/web-personal-frontend/src/app/modules/admin/components/category-add.component.ts",
+		"/C/wamp64/www/web-personal-frontend/src/app/service/foto.service.ts",
+		"/C/wamp64/www/web-personal-frontend/src/app/modules/admin/views/category.component.html",
+		"/C/wamp64/www/web-personal-frontend/src/app/modules/admin/views/category-add.component.html",
+		"/C/wamp64/www/web-personal-frontend/src/app/modules/admin/views/post-edit.component.html",
+		"/C/wamp64/www/web-personal-frontend/src/app/service/category.service.ts",
+		"/C/wamp64/www/web-personal-frontend/src/app/service/tag.service.ts",
+		"/C/wamp64/www/web-personal-frontend/src/app/modules/admin/components/category-edit.component.ts",
+		"/C/wamp64/www/web-personal-frontend/src/app/modules/admin/components/category.component.ts",
+		"/C/wamp64/www/web-personal-frontend/src/app/service/peticiones.service.ts",
+		"/C/wamp64/www/web-personal-frontend/src/app/models/post.ts",
+		"/C/wamp64/www/web-personal-backend-nodejs/models/post.js",
+		"/C/wamp64/www/web-personal-backend-nodejs/routes/category.js",
+		"/C/wamp64/www/web-personal-backend-nodejs/routes/photo.js",
+		"/C/wamp64/www/web-personal-backend-nodejs/controllers/category.js",
+		"/C/wamp64/www/web-personal-frontend/src/app/models/foto.ts",
+		"/C/wamp64/www/web-personal-frontend/src/app/modules/admin/views/post-add.component.html",
+		"/C/wamp64/www/web-personal-frontend/src/app/modules/admin/admin.module.ts",
+		"/C/wamp64/www/web-personal-frontend/src/app/modules/admin/admin-routing.module.ts",
+		"/C/wamp64/www/web-personal-frontend/src/app/views/login.component.html",
+		"/C/wamp64/www/web-personal-frontend/src/app/service/user.service.ts",
+		"/C/wamp64/www/web-personal-frontend/src/app/components/mis-datos.component.ts",
+		"/C/wamp64/www/web-personal-frontend/src/app/components/login.component.ts",
+		"/C/wamp64/www/web-personal-frontend/src/app/modules/admin/components/main.component.ts",
+		"/C/wamp64/www/web-personal-backend-nodejs/controllers/user.js",
+		"/C/wamp64/www/web-personal-backend-nodejs/models/photo.js",
+		"/C/wamp64/www/web-personal-backend-nodejs/app.js",
+		"/C/wamp64/www/web-personal-backend-nodejs/routes/user.js",
+		"/C/wamp64/www/web-personal-frontend/package.json",
+		"/C/wamp64/www/web-personal-frontend/node_modules/angular-froala-wysiwyg/index.metadata.json",
+		"/C/wamp64/www/web-personal-frontend/.angular-cli.json",
+		"/C/wamp64/www/web-personal-frontend/node_modules/angular-cli/base-href-webpack/package.json",
+		"/C/wamp64/www/web-personal-frontend/node_modules/ng2-ckeditor/README.md",
+		"/C/wamp64/www/web-personal-frontend/node_modules/froala-editor/js/froala_editor.min.js",
+		"/C/wamp64/www/web-personal-frontend/node_modules/froala-editor/js/froala_editor.js",
+		"/C/wamp64/www/web-personal-frontend/node_modules/froala-editor/js/froala_editor.pkgd.min.js",
+		"/C/wamp64/www/web-personal-backend-nodejs/middlewares/is_admin.js",
+		"/C/wamp64/www/web-personal-frontend/src/app/app.component.html",
+		"/C/wamp64/www/web-personal-frontend/node_modules/angular-froala-wysiwyg/editor/editor.module.metadata.json",
+		"/C/wamp64/www/web-personal-frontend/node_modules/angular-froala-wysiwyg/editor/editor.directive.metadata.json",
+		"/C/wamp64/www/web-personal-frontend/node_modules/angular-froala-wysiwyg/index.js",
+		"/C/wamp64/www/web-personal-frontend/node_modules/angular-froala-wysiwyg/index.d.ts",
+		"/C/wamp64/www/web-personal-frontend/node_modules/angular-froala-wysiwyg/bundles/angular-froala-wysiwyg.umd.js",
+		"/C/wamp64/www/web-personal-backend-nodejs/middlewares/authenticated.js",
+		"/C/wamp64/www/web-personal-frontend/node_modules/froala-editor/js/plugins/image_manager.min.js",
+		"/C/wamp64/www/web-personal-frontend/node_modules/froala-editor/js/plugins/image.min.js",
+		"/C/wamp64/www/web-personal-frontend/src/app/modules/admin/views/tag.component.html",
+		"/C/wamp64/www/web-personal-frontend/src/app/modules/admin/views/category-edit.component.html",
+		"/C/wamp64/www/web-personal-frontend/src/app/modules/admin/views/main.component.html",
+		"/C/wamp64/www/web-personal-frontend/src/app/modules/admin/components/events.component.ts",
+		"/C/wamp64/www/web-personal-frontend/src/app/modules/admin/pipes/search.pipe.ts",
+		"/C/wamp64/www/web-personal-frontend/src/app/models/category.ts",
+		"/C/wamp64/www/web-personal-backend-nodejs/routes/tag.js",
+		"/C/wamp64/www/web-personal-backend-nodejs/controllers/tag.js",
+		"/C/wamp64/www/web-personal-backend-nodejs/models/category.js",
+		"/C/wamp64/www/web-personal-frontend/src/app/modules/admin/components/tag.component.ts",
+		"/C/wamp64/www/web-personal-frontend/src/app/animation.ts",
+		"/C/wamp64/www/web-personal-frontend/src/app/views/registro.component.html",
+		"/C/wamp64/www/web-personal-frontend/src/app/views/mis-datos.component.html",
+		"/C/wamp64/www/web-personal-frontend/src/app/components/registro.component.ts",
+		"/C/wamp64/www/web-personal-frontend/src/app/models/tag.ts",
+		"/C/wamp64/www/web-personal-frontend/src/app/modules/admin/components/blog.component.ts",
+		"/C/wamp64/www/web-personal-backend-nodejs/models/tag.js",
+		"/C/wamp64/www/web-personal-frontend/src/app/models/user.ts",
+		"/C/wamp64/www/web-personal-frontend/src/app/app.component.ts",
+		"/C/wamp64/www/web-personal-frontend/src/assets/styles.css",
+		"/C/wamp64/www/web-personal-frontend/src/app/service/upload.service.ts",
+		"/C/wamp64/www/web-personal-frontend/src/app/modules/admin/views/blog.component.html",
+		"/C/wamp64/www/web-personal-frontend/src/app/guards/admin.guard.ts",
+		"/C/wamp64/www/web-personal-frontend/src/app/app.routing.ts",
+		"/C/wamp64/www/web-personal-frontend/src/app/models/contacto.ts",
+		"/C/wamp64/www/web-personal-frontend/src/app/service/global.ts",
+		"/C/wamp64/www/web-personal-backend-nodejs/routes/comment.js",
+		"/C/wamp64/www/web-personal-backend-nodejs/controllers/comment.js",
+		"/C/wamp64/www/web-personal-backend-nodejs/models/comment.js",
+		"/C/wamp64/www/web-personal-backend-nodejs/models/user.js",
+		"/C/wamp64/www/web-personal-backend-nodejs/routes/role.js",
+		"/C/wamp64/www/web-personal-backend-nodejs/controllers/role.js",
+		"/C/wamp64/www/web-personal-backend-nodejs/services/jwt.js",
+		"/C/wamp64/www/web-personal-backend-nodejs/models/role.js",
+		"/C/wamp64/www/web-personal-backend-nodejs/uploads/users/nOb-lzeEcJ3KVd24fzY4-ClA.JPG",
+		"/C/wamp64/www/web-personal-backend-nodejs/uploads/users/RNZPgyxoR_XKB1T8xztFiDZE",
+		"/C/wamp64/www/web-personal-backend-nodejs/uploads/users/_H2dbNRLRAbQoLpGnk8zf7CH",
+		"/C/wamp64/www/web-personal-backend-nodejs/package.json",
+		"/C/wamp64/www/web-personal-frontend/node_modules/@angular/cli/ember-cli/lib/utilities/merge-blueprint-options.js",
+		"/C/wamp64/www/web-personal-frontend/src/app/components/discografia.component.ts",
+		"/C/wamp64/www/web-personal-frontend/src/app/modules/send-email-module/sendemail.module.ts",
+		"/C/wamp64/www/web-personal-frontend/src/app/components/contacto.component.ts",
+		"/C/wamp64/www/web-personal-frontend/src/app/components/home.component.ts",
+		"/C/wamp64/www/web-personal-frontend/src/app/views/discografia.component.html",
+		"/C/wamp64/www/web-personal-frontend/src/app/views/contacto.component.html",
+		"/C/wamp64/www/web-personal-frontend/src/app/views/home.component.html",
+		"/C/wamp64/www/web-personal-frontend/src/app/views/error.component.html",
+		"/C/wamp64/www/web-personal-frontend/src/app/components/error.component.ts",
+		"/C/wamp64/www/web-personal-frontend/src/assets/bootstrap/css/bootstrap-theme.css",
+		"/C/wamp64/www/web-personal-frontend/src/app/modules/admin/views/events.component.html",
+		"/C/wamp64/www/web-personal-frontend/src/app/modules/send-email-module/service/send-email.service.ts",
+		"/C/wamp64/www/web-personal-frontend/src/app/modules/send-email-module/service/global.ts",
+		"/C/wamp64/www/web-personal-frontend/src/app/modules/send-email-module/components/send-email.component.ts",
+		"/C/wamp64/www/web-personal-frontend/src/app/modules/admin/components/main/main.component.ts",
+		"/C/wamp64/www/web-personal-frontend/src/app/modules/send-email-module/models/contacto.ts",
+		"/C/wamp64/www/web-personal-frontend/src/app/modules/sendemailmodule/views/send-email.component.html",
+		"/C/wamp64/www/web-personal-frontend/src/app/modules/sendemailmodule/service/send-email.service.ts",
+		"/C/wamp64/www/web-personal-frontend/src/app/modules/sendemailmodule/components/send-email.component.ts",
+		"/C/wamp64/www/web-personal-backend-symfony/src/AppBundle/Controller/DefaultController.php",
+		"/C/wamp64/www/web-personal-backend-symfony/app/config/routing.yml",
+		"/C/wamp64/www/web-personal-backend-symfony/src/AppBundle/Resources/config/routing.yml",
+		"/C/wamp64/www/web-personal-backend-symfony/src/AppBundle/Resources/config/routing/default.yml",
+		"/C/wamp64/www/web-personal-backend-symfony/var/logs/dev.log"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 36.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "proyectobackend.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 234.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
